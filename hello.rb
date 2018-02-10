@@ -1,4 +1,4 @@
-# Default is "World"
+# Commit me bro
 name = ARGV.first || "World"
 
 puts "Hello, #{name}!"
